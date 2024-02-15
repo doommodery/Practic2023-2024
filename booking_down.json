@@ -1,0 +1,4309 @@
+{
+  "miigaik": {
+    "1Body": {
+      "1Floor": {
+        "154к.1": {
+          "Понедельник": {
+            "room": "154к.1",
+            "room_id": "classroom?id=4471",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "154к.1",
+            "room_id": "classroom?id=4471",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "154к.1",
+            "room_id": "classroom?id=4471",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Четверг": {
+            "room": "154к.1",
+            "room_id": "classroom?id=4471",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Пятница": {
+            "room": "154к.1",
+            "room_id": "classroom?id=4471",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Суббота": {
+            "room": "154к.1",
+            "room_id": "classroom?id=4471",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "165к.1": {
+          "Понедельник": {
+            "room": "165к.1",
+            "room_id": "classroom?id=9",
+            "1pair": "occupied",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "165к.1",
+            "room_id": "classroom?id=9",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "165к.1",
+            "room_id": "classroom?id=9",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "165к.1",
+            "room_id": "classroom?id=9",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "occupied"
+          },
+          "Пятница": {
+            "room": "165к.1",
+            "room_id": "classroom?id=9",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Суббота": {
+            "room": "165к.1",
+            "room_id": "classroom?id=9",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "166к.1": {
+          "Понедельник": {
+            "room": "166к.1",
+            "room_id": "classroom?id=4426",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "166к.1",
+            "room_id": "classroom?id=4426",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "166к.1",
+            "room_id": "classroom?id=4426",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "166к.1",
+            "room_id": "classroom?id=4426",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "166к.1",
+            "room_id": "classroom?id=4426",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "166к.1",
+            "room_id": "classroom?id=4426",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "170к.1": {
+          "Понедельник": {
+            "room": "170к.1",
+            "room_id": "classroom?id=10",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "170к.1",
+            "room_id": "classroom?id=10",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "unboccupiedooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "170к.1",
+            "room_id": "classroom?id=10",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "170к.1",
+            "room_id": "classroom?id=10",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Пятница": {
+            "room": "170к.1",
+            "room_id": "classroom?id=10",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Суббота": {
+            "room": "170к.1",
+            "room_id": "classroom?id=10",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        }
+      },
+      "4Floor": {
+        "401к.1": {
+          "Понедельник": {
+            "room": "401к.1",
+            "room_id": "classroom?id=80",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "401к.1",
+            "room_id": "classroom?id=80",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "401к.1",
+            "room_id": "classroom?id=80",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "401к.1",
+            "room_id": "classroom?id=80",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "401к.1",
+            "room_id": "classroom?id=80",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "401к.1",
+            "room_id": "classroom?id=80",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "402к.1": {
+          "Понедельник": {
+            "room": "402к.1",
+            "room_id": "classroom?id=16",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "402к.1",
+            "room_id": "classroom?id=16",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "402к.1",
+            "room_id": "classroom?id=16",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "402к.1",
+            "room_id": "classroom?id=16",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "unboccupiedooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "402к.1",
+            "room_id": "classroom?id=16",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "402к.1",
+            "room_id": "classroom?id=16",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "403к.1": {
+          "Понедельник": {
+            "room": "403к.1",
+            "room_id": "classroom?id=17",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "403к.1",
+            "room_id": "classroom?id=17",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Среда": {
+            "room": "403к.1",
+            "room_id": "classroom?id=17",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "403к.1",
+            "room_id": "classroom?id=17",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "403к.1",
+            "room_id": "classroom?id=17",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "403к.1",
+            "room_id": "classroom?id=17",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "404к.1": {
+          "Понедельник": {
+            "room": "404к.1",
+            "room_id": "classroom?id=18",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "404к.1",
+            "room_id": "classroom?id=18",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Среда": {
+            "room": "404к.1",
+            "room_id": "classroom?id=18",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "404к.1",
+            "room_id": "classroom?id=18",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Пятница": {
+            "room": "404к.1",
+            "room_id": "classroom?id=18",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "404к.1",
+            "room_id": "classroom?id=18",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "406к.1": {
+          "Понедельник": {
+            "room": "406к.1",
+            "room_id": "classroom?id=19",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Вторник": {
+            "room": "406к.1",
+            "room_id": "classroom?id=19",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "406к.1",
+            "room_id": "classroom?id=19",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "406к.1",
+            "room_id": "classroom?id=19",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "406к.1",
+            "room_id": "classroom?id=19",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "406к.1",
+            "room_id": "classroom?id=19",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "409к.1": {
+          "Понедельник": {
+            "room": "409к.1",
+            "room_id": "classroom?id=74",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "409к.1",
+            "room_id": "classroom?id=74",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "409к.1",
+            "room_id": "classroom?id=74",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "409к.1",
+            "room_id": "classroom?id=74",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "409к.1",
+            "room_id": "classroom?id=74",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "409к.1",
+            "room_id": "classroom?id=74",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "410к.1": {
+          "Понедельник": {
+            "room": "410к.1",
+            "room_id": "classroom?id=76",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "410к.1",
+            "room_id": "classroom?id=76",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "410к.1",
+            "room_id": "classroom?id=76",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "410к.1",
+            "room_id": "classroom?id=76",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "410к.1",
+            "room_id": "classroom?id=76",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "410к.1",
+            "room_id": "classroom?id=76",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "occupied"
+          }
+        },
+        "410ак.1": {
+          "Понедельник": {
+            "room": "410бк.1",
+            "room_id": "classroom?id=4428",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "410бк.1",
+            "room_id": "classroom?id=4428",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "410бк.1",
+            "room_id": "classroom?id=4428",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "410бк.1",
+            "room_id": "classroom?id=4428",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "410бк.1",
+            "room_id": "classroom?id=4428",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "410бк.1",
+            "room_id": "classroom?id=4428",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "411к.1": {
+          "Понедельник": {
+            "room": "411к.1",
+            "room_id": "classroom?id=77",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "411к.1",
+            "room_id": "classroom?id=77",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "411к.1",
+            "room_id": "classroom?id=77",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "411к.1",
+            "room_id": "classroom?id=77",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Пятница": {
+            "room": "411к.1",
+            "room_id": "classroom?id=77",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "occupied"
+          },
+          "Суббота": {
+            "room": "411к.1",
+            "room_id": "classroom?id=77",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "414к.1": {
+          "Понедельник": {
+            "room": "414к.1",
+            "room_id": "classroom?id=73",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "414к.1",
+            "room_id": "classroom?id=73",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "414к.1",
+            "room_id": "classroom?id=73",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "414к.1",
+            "room_id": "classroom?id=73",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "414к.1",
+            "room_id": "classroom?id=73",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "414к.1",
+            "room_id": "classroom?id=73",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "420к.1": {
+          "Понедельник": {
+            "room": "420к.1",
+            "room_id": "classroom?id=99",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "420к.1",
+            "room_id": "classroom?id=99",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "420к.1",
+            "room_id": "classroom?id=99",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "420к.1",
+            "room_id": "classroom?id=99",
+            "1pair": "occupied",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "420к.1",
+            "room_id": "classroom?id=99",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "420к.1",
+            "room_id": "classroom?id=99",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "423к.1": {
+          "Понедельник": {
+            "room": "423к.1",
+            "room_id": "classroom?id=100",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "423к.1",
+            "room_id": "classroom?id=100",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "423к.1",
+            "room_id": "classroom?id=100",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "423к.1",
+            "room_id": "classroom?id=100",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "423к.1",
+            "room_id": "classroom?id=100",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "423к.1",
+            "room_id": "classroom?id=100",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "423ак.1": {
+          "Понедельник": {
+            "room": "423бк.1",
+            "room_id": "classroom?id=102",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "423бк.1",
+            "room_id": "classroom?id=102",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "423бк.1",
+            "room_id": "classroom?id=102",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "423бк.1",
+            "room_id": "classroom?id=102",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "423бк.1",
+            "room_id": "classroom?id=102",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "423бк.1",
+            "room_id": "classroom?id=102",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "424к.1": {
+          "Понедельник": {
+            "room": "424к.1",
+            "room_id": "classroom?id=101",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "424к.1",
+            "room_id": "classroom?id=101",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "424к.1",
+            "room_id": "classroom?id=101",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "424к.1",
+            "room_id": "classroom?id=101",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "424к.1",
+            "room_id": "classroom?id=101",
+            "1pair": "occupied",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "424к.1",
+            "room_id": "classroom?id=101",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "425к.1": {
+          "Понедельник": {
+            "room": "425к.1",
+            "room_id": "classroom?id=88",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "425к.1",
+            "room_id": "classroom?id=88",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "425к.1",
+            "room_id": "classroom?id=88",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "425к.1",
+            "room_id": "classroom?id=88",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "425к.1",
+            "room_id": "classroom?id=88",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "425к.1",
+            "room_id": "classroom?id=88",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "426к.1": {
+          "Понедельник": {
+            "room": "426к.1",
+            "room_id": "classroom?id=89",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "426к.1",
+            "room_id": "classroom?id=89",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "426к.1",
+            "room_id": "classroom?id=89",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "426к.1",
+            "room_id": "classroom?id=89",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "426к.1",
+            "room_id": "classroom?id=89",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "426к.1",
+            "room_id": "classroom?id=89",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "434ак.1": {
+          "Понедельник": {
+            "room": "434ак.1",
+            "room_id": "classroom?id=14",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "434ак.1",
+            "room_id": "classroom?id=14",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "434ак.1",
+            "room_id": "classroom?id=14",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "434ак.1",
+            "room_id": "classroom?id=14",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "434ак.1",
+            "room_id": "classroom?id=14",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "434ак.1",
+            "room_id": "classroom?id=14",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "434бк.1": {
+          "Понедельник": {
+            "room": "434бк.1",
+            "room_id": "classroom?id=15",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "434бк.1",
+            "room_id": "classroom?id=15",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "434бк.1",
+            "room_id": "classroom?id=15",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "434бк.1",
+            "room_id": "classroom?id=15",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "434бк.1",
+            "room_id": "classroom?id=15",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "434бк.1",
+            "room_id": "classroom?id=15",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "450к.1": {
+          "Понедельник": {
+            "room": "450к.1",
+            "room_id": "classroom?id=4469",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Вторник": {
+            "room": "450к.1",
+            "room_id": "classroom?id=4469",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "450к.1",
+            "room_id": "classroom?id=4469",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "occupied"
+          },
+          "Четверг": {
+            "room": "450к.1",
+            "room_id": "classroom?id=4469",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "450к.1",
+            "room_id": "classroom?id=4469",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Суббота": {
+            "room": "450к.1",
+            "room_id": "classroom?id=4469",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        }
+      },
+      "5Floor": {
+        "503к.1": {
+          "Понедельник": {
+            "room": "503к.1",
+            "room_id": "classroom?id=107",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "503к.1",
+            "room_id": "classroom?id=107",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "503к.1",
+            "room_id": "classroom?id=107",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "503к.1",
+            "room_id": "classroom?id=107",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "503к.1",
+            "room_id": "classroom?id=107",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "503к.1",
+            "room_id": "classroom?id=107",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "506к.1": {
+          "Понедельник": {
+            "room": "506к.1",
+            "room_id": "classroom?id=78",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "506к.1",
+            "room_id": "classroom?id=78",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "506к.1",
+            "room_id": "classroom?id=78",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "506к.1",
+            "room_id": "classroom?id=78",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "506к.1",
+            "room_id": "classroom?id=78",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "506к.1",
+            "room_id": "classroom?id=78",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "507к.1": {
+          "Понедельник": {
+            "room": "507к.1",
+            "room_id": "classroom?id=82",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "507к.1",
+            "room_id": "classroom?id=82",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "507к.1",
+            "room_id": "classroom?id=82",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "507к.1",
+            "room_id": "classroom?id=82",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "507к.1",
+            "room_id": "classroom?id=82",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "507к.1",
+            "room_id": "classroom?id=82",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "513к.1": {
+          "Понедельник": {
+            "room": "513к.1",
+            "room_id": "classroom?id=83",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "513к.1",
+            "room_id": "classroom?id=83",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "513к.1",
+            "room_id": "classroom?id=83",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "513к.1",
+            "room_id": "classroom?id=83",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "513к.1",
+            "room_id": "classroom?id=83",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "513к.1",
+            "room_id": "classroom?id=83",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "514к.1": {
+          "Понедельник": {
+            "room": "514к.1",
+            "room_id": "classroom?id=84",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "514к.1",
+            "room_id": "classroom?id=84",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "514к.1",
+            "room_id": "classroom?id=84",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "514к.1",
+            "room_id": "classroom?id=84",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "514к.1",
+            "room_id": "classroom?id=84",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "514к.1",
+            "room_id": "classroom?id=84",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "515к.1": {
+          "Понедельник": {
+            "room": "515к.1",
+            "room_id": "classroom?id=85",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "515к.1",
+            "room_id": "classroom?id=85",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "515к.1",
+            "room_id": "classroom?id=85",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "515к.1",
+            "room_id": "classroom?id=85",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "515к.1",
+            "room_id": "classroom?id=85",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "515к.1",
+            "room_id": "classroom?id=85",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "516к.1": {
+          "Понедельник": {
+            "room": "516к.1",
+            "room_id": "classroom?id=86",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "516к.1",
+            "room_id": "classroom?id=86",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "516к.1",
+            "room_id": "classroom?id=86",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "516к.1",
+            "room_id": "classroom?id=86",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "516к.1",
+            "room_id": "classroom?id=86",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "516к.1",
+            "room_id": "classroom?id=86",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "519к.1": {
+          "Понедельник": {
+            "room": "519к.1",
+            "room_id": "classroom?id=64",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "519к.1",
+            "room_id": "classroom?id=64",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "519к.1",
+            "room_id": "classroom?id=64",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "519к.1",
+            "room_id": "classroom?id=64",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "519к.1",
+            "room_id": "classroom?id=64",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "519к.1",
+            "room_id": "classroom?id=64",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "520к.1": {
+          "Понедельник": {
+            "room": "520к.1",
+            "room_id": "classroom?id=79",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "520к.1",
+            "room_id": "classroom?id=79",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "520к.1",
+            "room_id": "classroom?id=79",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "520к.1",
+            "room_id": "classroom?id=79",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "520к.1",
+            "room_id": "classroom?id=79",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "520к.1",
+            "room_id": "classroom?id=79",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "550к.1": {
+          "Понедельник": {
+            "room": "550к.1",
+            "room_id": "classroom?id=4472",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "550к.1",
+            "room_id": "classroom?id=4472",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "550к.1",
+            "room_id": "classroom?id=4472",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "550к.1",
+            "room_id": "classroom?id=4472",
+            "1pair": "occupied",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Пятница": {
+            "room": "550к.1",
+            "room_id": "classroom?id=4472",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "550к.1",
+            "room_id": "classroom?id=4472",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "554к.1": {
+          "Понедельник": {
+            "room": "554к.1",
+            "room_id": "classroom?id=44",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "554к.1",
+            "room_id": "classroom?id=44",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "554к.1",
+            "room_id": "classroom?id=44",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "554к.1",
+            "room_id": "classroom?id=44",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "554к.1",
+            "room_id": "classroom?id=44",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Суббота": {
+            "room": "554к.1",
+            "room_id": "classroom?id=44",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        }
+      }
+    },
+    "6Floor": {
+      "601к.1": {
+        "Понедельник": {
+          "room": "601к.1",
+          "room_id": "classroom?id=4414",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Вторник": {
+          "room": "601к.1",
+          "room_id": "classroom?id=4414",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Среда": {
+          "room": "601к.1",
+          "room_id": "classroom?id=4414",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Четверг": {
+          "room": "601к.1",
+          "room_id": "classroom?id=4414",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Пятница": {
+          "room": "601к.1",
+          "room_id": "classroom?id=4414",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Суббота": {
+          "room": "601к.1",
+          "room_id": "classroom?id=4414",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        }
+      },
+      "602к.1": {
+        "Понедельник": {
+          "room": "602к.1",
+          "room_id": "classroom?id=20",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Вторник": {
+          "room": "602к.1",
+          "room_id": "classroom?id=20",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Среда": {
+          "room": "602к.1",
+          "room_id": "classroom?id=20",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Четверг": {
+          "room": "602к.1",
+          "room_id": "classroom?id=20",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Пятница": {
+          "room": "602к.1",
+          "room_id": "classroom?id=20",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Суббота": {
+          "room": "602к.1",
+          "room_id": "classroom?id=20",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        }
+      },
+      "603к.1": {
+        "Понедельник": {
+          "room": "603к.1",
+          "room_id": "classroom?id=52",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Вторник": {
+          "room": "603к.1",
+          "room_id": "classroom?id=52",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Среда": {
+          "room": "603к.1",
+          "room_id": "classroom?id=52",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Четверг": {
+          "room": "603к.1",
+          "room_id": "classroom?id=52",
+          "1pair": "occupied",
+          "2pair": "occupied",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Пятница": {
+          "room": "603к.1",
+          "room_id": "classroom?id=52",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Суббота": {
+          "room": "603к.1",
+          "room_id": "classroom?id=52",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "occupied",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        }
+      },
+      "604к.1": {
+        "Понедельник": {
+          "room": "604к.1",
+          "room_id": "classroom?id=63",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "occupied",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Вторник": {
+          "room": "604к.1",
+          "room_id": "classroom?id=63",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "occupied",
+          "6pair": "occupied",
+          "7pair": "occupied"
+        },
+        "Среда": {
+          "room": "604к.1",
+          "room_id": "classroom?id=63",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "occupied",
+          "6pair": "occupied",
+          "7pair": "unbooking"
+        },
+        "Четверг": {
+          "room": "604к.1",
+          "room_id": "classroom?id=63",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "occupied",
+          "5pair": "occupied",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Пятница": {
+          "room": "604к.1",
+          "room_id": "classroom?id=63",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "unbooking",
+          "5pair": "occupied",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Суббота": {
+          "room": "604к.1",
+          "room_id": "classroom?id=63",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        }
+      },
+      "605к.1": {
+        "Понедельник": {
+          "room": "605к.1",
+          "room_id": "classroom?id=53",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "occupied",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Вторник": {
+          "room": "605к.1",
+          "room_id": "classroom?id=53",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "unbooking",
+          "6pair": "occupied",
+          "7pair": "occupied"
+        },
+        "Среда": {
+          "room": "605к.1",
+          "room_id": "classroom?id=53",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "occupied",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Четверг": {
+          "room": "605к.1",
+          "room_id": "classroom?id=53",
+          "1pair": "occupied",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Пятница": {
+          "room": "605к.1",
+          "room_id": "classroom?id=53",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "occupied",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Суббота": {
+          "room": "605к.1",
+          "room_id": "classroom?id=53",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        }
+      },
+      "606к.1": {
+        "Понедельник": {
+          "room": "606к.1",
+          "room_id": "classroom?id=4454",
+          "1pair": "occupied",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "unbooking",
+          "6pair": "occupied",
+          "7pair": "occupied"
+        },
+        "Вторник": {
+          "room": "606к.1",
+          "room_id": "classroom?id=4454",
+          "1pair": "occupied",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "occupied",
+          "6pair": "occupied",
+          "7pair": "occupied"
+        },
+        "Среда": {
+          "room": "606к.1",
+          "room_id": "classroom?id=4454",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "occupied",
+          "6pair": "occupied",
+          "7pair": "unbooking"
+        },
+        "Четверг": {
+          "room": "606к.1",
+          "room_id": "classroom?id=4454",
+          "1pair": "occupied",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "occupied",
+          "6pair": "occupied",
+          "7pair": "occupied"
+        },
+        "Пятница": {
+          "room": "606к.1",
+          "room_id": "classroom?id=4454",
+          "1pair": "occupied",
+          "2pair": "unbooking",
+          "3pair": "occupied",
+          "4pair": "unbooking",
+          "5pair": "occupied",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Суббота": {
+          "room": "606к.1",
+          "room_id": "classroom?id=4454",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "occupied",
+          "6pair": "occupied",
+          "7pair": "unbooking"
+        }
+      },
+      "607к.1": {
+        "Понедельник": {
+          "room": "607к.1",
+          "room_id": "classroom?id=55",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Вторник": {
+          "room": "607к.1",
+          "room_id": "classroom?id=55",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "occupied"
+        },
+        "Среда": {
+          "room": "607к.1",
+          "room_id": "classroom?id=55",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "occupied",
+          "6pair": "occupied",
+          "7pair": "occupied"
+        },
+        "Четверг": {
+          "room": "607к.1",
+          "room_id": "classroom?id=55",
+          "1pair": "occupied",
+          "2pair": "occupied",
+          "3pair": "unbooking",
+          "4pair": "occupied",
+          "5pair": "occupied",
+          "6pair": "occupied",
+          "7pair": "occupied"
+        },
+        "Пятница": {
+          "room": "607к.1",
+          "room_id": "classroom?id=55",
+          "1pair": "occupied",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "unbooking",
+          "5pair": "occupied",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Суббота": {
+          "room": "607к.1",
+          "room_id": "classroom?id=55",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        }
+      },
+      "608к.1": {
+        "Понедельник": {
+          "room": "608к.1",
+          "room_id": "classroom?id=56",
+          "1pair": "occupied",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "unbooking",
+          "6pair": "occupied",
+          "7pair": "unbooking"
+        },
+        "Вторник": {
+          "room": "608к.1",
+          "room_id": "classroom?id=56",
+          "1pair": "occupied",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "unbooking",
+          "6pair": "occupied",
+          "7pair": "unbooking"
+        },
+        "Среда": {
+          "room": "608к.1",
+          "room_id": "classroom?id=56",
+          "1pair": "occupied",
+          "2pair": "unbooking",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "occupied",
+          "6pair": "occupied",
+          "7pair": "unbooking"
+        },
+        "Четверг": {
+          "room": "608к.1",
+          "room_id": "classroom?id=56",
+          "1pair": "occupied",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "occupied",
+          "6pair": "occupied",
+          "7pair": "occupied"
+        },
+        "Пятница": {
+          "room": "608к.1",
+          "room_id": "classroom?id=56",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "unbooking",
+          "5pair": "occupied",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Суббота": {
+          "room": "608к.1",
+          "room_id": "classroom?id=56",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        }
+      },
+      "609к.1": {
+        "Понедельник": {
+          "room": "609к.1",
+          "room_id": "classroom?id=57",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Вторник": {
+          "room": "609к.1",
+          "room_id": "classroom?id=57",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "occupied",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Среда": {
+          "room": "609к.1",
+          "room_id": "classroom?id=57",
+          "1pair": "occupied",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "occupied",
+          "6pair": "occupied",
+          "7pair": "unbooking"
+        },
+        "Четверг": {
+          "room": "609к.1",
+          "room_id": "classroom?id=57",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "occupied",
+          "6pair": "occupied",
+          "7pair": "unbooking"
+        },
+        "Пятница": {
+          "room": "609к.1",
+          "room_id": "classroom?id=57",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "occupied",
+          "5pair": "occupied",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Суббота": {
+          "room": "609к.1",
+          "room_id": "classroom?id=57",
+          "1pair": "unbooking",
+          "2pair": "occupied",
+          "3pair": "occupied",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        }
+      },
+      "621к.1": {
+        "Понедельник": {
+          "room": "621к.1",
+          "room_id": "classroom?id=58",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Вторник": {
+          "room": "621к.1",
+          "room_id": "classroom?id=58",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Среда": {
+          "room": "621к.1",
+          "room_id": "classroom?id=58",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Четверг": {
+          "room": "621к.1",
+          "room_id": "classroom?id=58",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Пятница": {
+          "room": "621к.1",
+          "room_id": "classroom?id=58",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Суббота": {
+          "room": "621к.1",
+          "room_id": "classroom?id=58",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        }
+      },
+      "622ак.1": {
+        "Понедельник": {
+          "room": "622ак.1",
+          "room_id": "classroom?id=59",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Вторник": {
+          "room": "622ак.1",
+          "room_id": "classroom?id=59",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Среда": {
+          "room": "622ак.1",
+          "room_id": "classroom?id=59",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Четверг": {
+          "room": "622ак.1",
+          "room_id": "classroom?id=59",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Пятница": {
+          "room": "622ак.1",
+          "room_id": "classroom?id=59",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Суббота": {
+          "room": "622ак.1",
+          "room_id": "classroom?id=59",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        }
+      },
+      "622бк.1": {
+        "Понедельник": {
+          "room": "622бк.1",
+          "room_id": "classroom?id=60",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Вторник": {
+          "room": "622бк.1",
+          "room_id": "classroom?id=60",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Среда": {
+          "room": "622бк.1",
+          "room_id": "classroom?id=60",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Четверг": {
+          "room": "622бк.1",
+          "room_id": "classroom?id=60",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Пятница": {
+          "room": "622бк.1",
+          "room_id": "classroom?id=60",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        },
+        "Суббота": {
+          "room": "622бк.1",
+          "room_id": "classroom?id=60",
+          "1pair": "unbooking",
+          "2pair": "unbooking",
+          "3pair": "unbooking",
+          "4pair": "unbooking",
+          "5pair": "unbooking",
+          "6pair": "unbooking",
+          "7pair": "unbooking"
+        }
+      }
+    },
+    "2Body": {
+      "1Floor": {
+        "101к.2": {
+          "Понедельник": {
+            "room": "101к.2",
+            "room_id": "classroom?id=5054",
+            "1pair": "occupied",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "101к.2",
+            "room_id": "classroom?id=5054",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "101к.2",
+            "room_id": "classroom?id=5054",
+            "1pair": "occupied",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Четверг": {
+            "room": "101к.2",
+            "room_id": "classroom?id=5054",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Пятница": {
+            "room": "101к.2",
+            "room_id": "classroom?id=5054",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Суббота": {
+            "room": "101к.2",
+            "room_id": "classroom?id=5054",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        }
+      },
+      "3Floor": {
+        "302к.2": {
+          "Понедельник": {
+            "room": "302к.2",
+            "room_id": "classroom?id=4",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "302к.2",
+            "room_id": "classroom?id=4",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "302к.2",
+            "room_id": "classroom?id=4",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "302к.2",
+            "room_id": "classroom?id=4",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Пятница": {
+            "room": "302к.2",
+            "room_id": "classroom?id=4",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "302к.2",
+            "room_id": "classroom?id=4",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          }
+        },
+        "303к.2": {
+          "Понедельник": {
+            "room": "303к.2",
+            "room_id": "classroom?id=3",
+            "1pair": "occupied",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Вторник": {
+            "room": "303к.2",
+            "room_id": "classroom?id=3",
+            "1pair": "occupied",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Среда": {
+            "room": "303к.2",
+            "room_id": "classroom?id=3",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Четверг": {
+            "room": "303к.2",
+            "room_id": "classroom?id=3",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Пятница": {
+            "room": "303к.2",
+            "room_id": "classroom?id=3",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Суббота": {
+            "room": "303к.2",
+            "room_id": "classroom?id=3",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "304к.2": {
+          "Понедельник": {
+            "room": "304к.2",
+            "room_id": "classroom?id=2",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Вторник": {
+            "room": "304к.2",
+            "room_id": "classroom?id=2",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "304к.2",
+            "room_id": "classroom?id=2",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "304к.2",
+            "room_id": "classroom?id=2",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "304к.2",
+            "room_id": "classroom?id=2",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Суббота": {
+            "room": "304к.2",
+            "room_id": "classroom?id=2",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        }
+      },
+      "5Floor": {
+        "507к.2": {
+          "Понедельник": {
+            "room": "507к.2",
+            "room_id": "classroom?id=6",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "507к.2",
+            "room_id": "classroom?id=6",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Среда": {
+            "room": "507к.2",
+            "room_id": "classroom?id=6",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "occupied"
+          },
+          "Четверг": {
+            "room": "507к.2",
+            "room_id": "classroom?id=6",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Пятница": {
+            "room": "507к.2",
+            "room_id": "classroom?id=6",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Суббота": {
+            "room": "507к.2",
+            "room_id": "classroom?id=6",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "508к.2": {
+          "Понедельник": {
+            "room": "508к.2",
+            "room_id": "classroom?id=7",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Вторник": {
+            "room": "508к.2",
+            "room_id": "classroom?id=7",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "508к.2",
+            "room_id": "classroom?id=7",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "508к.2",
+            "room_id": "classroom?id=7",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "508к.2",
+            "room_id": "classroom?id=7",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Суббота": {
+            "room": "508к.2",
+            "room_id": "classroom?id=7",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "509к.2": {
+          "Понедельник": {
+            "room": "509к.2",
+            "room_id": "classroom?id=8",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "509к.2",
+            "room_id": "classroom?id=8",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "509к.2",
+            "room_id": "classroom?id=8",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Четверг": {
+            "room": "509к.2",
+            "room_id": "classroom?id=8",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "509к.2",
+            "room_id": "classroom?id=8",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Суббота": {
+            "room": "509к.2",
+            "room_id": "classroom?id=8",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "510к.2": {
+          "Понедельник": {
+            "room": "510к.2",
+            "room_id": "classroom?id=5",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "510к.2",
+            "room_id": "classroom?id=5",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "510к.2",
+            "room_id": "classroom?id=5",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Четверг": {
+            "room": "510к.2",
+            "room_id": "classroom?id=5",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "510к.2",
+            "room_id": "classroom?id=5",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied"
+          },
+          "Суббота": {
+            "room": "510к.2",
+            "room_id": "classroom?id=5",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          }
+        }
+      },
+      "6Floor": {
+        "601к.2": {
+          "Понедельник": {
+            "room": "601к.2",
+            "room_id": "classroom?id=4435",
+            "1pair": "occupied",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "601к.2",
+            "room_id": "classroom?id=4435",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "601к.2",
+            "room_id": "classroom?id=4435",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "occupied",
+            "7pair": "occupied    "
+          },
+          "Четверг": {
+            "room": "601к.2",
+            "room_id": "classroom?id=4435",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "occupied",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "601к.2",
+            "room_id": "classroom?id=4435",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "601к.2",
+            "room_id": "classroom?id=4435",
+            "1pair": "occupied",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "602к.2": {
+          "Понедельник": {
+            "room": "602к.2",
+            "room_id": "classroom?id=4430",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "602к.2",
+            "room_id": "classroom?id=4430",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "602к.2",
+            "room_id": "classroom?id=4430",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "602к.2",
+            "room_id": "classroom?id=4430",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "602к.2",
+            "room_id": "classroom?id=4430",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "602к.2",
+            "room_id": "classroom?id=4430",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "603к.2": {
+          "Понедельник": {
+            "room": "603к.2",
+            "room_id": "classroom?id=4443",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "603к.2",
+            "room_id": "classroom?id=4443",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "603к.2",
+            "room_id": "classroom?id=4443",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "603к.2",
+            "room_id": "classroom?id=4443",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "603к.2",
+            "room_id": "classroom?id=4443",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "603к.2",
+            "room_id": "classroom?id=4443",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "604к.2": {
+          "Понедельник": {
+            "room": "604к.2",
+            "room_id": "classroom?id=4431",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "604к.2",
+            "room_id": "classroom?id=4431",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "604к.2",
+            "room_id": "classroom?id=4431",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "604к.2",
+            "room_id": "classroom?id=4431",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "604к.2",
+            "room_id": "classroom?id=4431",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "604к.2",
+            "room_id": "classroom?id=4431",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "605к.2": {
+          "Понедельник": {
+            "room": "605к.2",
+            "room_id": "classroom?id=4419",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "605к.2",
+            "room_id": "classroom?id=4419",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "605к.2",
+            "room_id": "classroom?id=4419",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "605к.2",
+            "room_id": "classroom?id=4419",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "occupied",
+            "5pair": "occupied",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "605к.2",
+            "room_id": "classroom?id=4419",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "605к.2",
+            "room_id": "classroom?id=4419",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "606к.2": {
+          "Понедельник": {
+            "room": "606к.2",
+            "room_id": "classroom?id=54",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "606к.2",
+            "room_id": "classroom?id=54",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "606к.2",
+            "room_id": "classroom?id=54",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "606к.2",
+            "room_id": "classroom?id=54",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "606к.2",
+            "room_id": "classroom?id=54",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "606к.2",
+            "room_id": "classroom?id=54",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "607к.2": {
+          "Понедельник": {
+            "room": "607к.2",
+            "room_id": "classroom?id=4465",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "607к.2",
+            "room_id": "classroom?id=4465",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "607к.2",
+            "room_id": "classroom?id=4465",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "607к.2",
+            "room_id": "classroom?id=4465",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "607к.2",
+            "room_id": "classroom?id=4465",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "607к.2",
+            "room_id": "classroom?id=4465",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "608к.2": {
+          "Понедельник": {
+            "room": "608к.2",
+            "room_id": "classroom?id=122",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "608к.2",
+            "room_id": "classroom?id=122",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "occupied",
+            "4pair": "occupied",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "608к.2",
+            "room_id": "classroom?id=122",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "608к.2",
+            "room_id": "classroom?id=122",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "608к.2",
+            "room_id": "classroom?id=122",
+            "1pair": "unbooking",
+            "2pair": "occupied",
+            "3pair": "occupied",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "608к.2",
+            "room_id": "classroom?id=122",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        },
+        "609к.2": {
+          "Понедельник": {
+            "room": "609к.2",
+            "room_id": "classroom?id=4473",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Вторник": {
+            "room": "609к.2",
+            "room_id": "classroom?id=4473",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Среда": {
+            "room": "609к.2",
+            "room_id": "classroom?id=4473",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Четверг": {
+            "room": "609к.2",
+            "room_id": "classroom?id=4473",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Пятница": {
+            "room": "609к.2",
+            "room_id": "classroom?id=4473",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          },
+          "Суббота": {
+            "room": "609к.2",
+            "room_id": "classroom?id=4473",
+            "1pair": "unbooking",
+            "2pair": "unbooking",
+            "3pair": "unbooking",
+            "4pair": "unbooking",
+            "5pair": "unbooking",
+            "6pair": "unbooking",
+            "7pair": "unbooking"
+          }
+        }
+      }
+    },
+    "1pair": "booking"
+  }
+}
